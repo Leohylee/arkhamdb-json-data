@@ -16,12 +16,20 @@
         "name": "敵人"
     },
     {
+        "code": "enemy_location",
+        "name": "Enemy-Location"
+    },
+    {
         "code": "event",
         "name": "事件"
     },
     {
         "code": "investigator",
         "name": "調查員"
+    },
+    {
+        "code": "key",
+        "name": "密鑰"
     },
     {
         "code": "location",

@@ -16,6 +16,10 @@
         "name": "적"
     },
     {
+        "code": "enemy_location",
+        "name": "Enemy-Location"
+    },
+    {
         "code": "event",
         "name": "이벤트"
     },
@@ -25,7 +29,7 @@
     },
     {
         "code": "key",
-        "name": "Key"
+        "name": "열쇠"
     },
     {
         "code": "location",

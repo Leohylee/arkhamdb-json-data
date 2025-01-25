@@ -1,5 +1,9 @@
 [
     {
+        "code": "aof",
+        "name": "Aura of Faith"
+    },
+    {
         "code": "aon",
         "name": "孤注一擲"
     },
@@ -14,6 +18,10 @@
     {
         "code": "bbt",
         "name": "黑色王座"
+    },
+    {
+        "code": "blbe",
+        "name": "The Blob That Ate Everything ELSE!"
     },
     {
         "code": "blob",
@@ -84,12 +92,28 @@
         "name": "崇高利益"
     },
     {
+        "code": "fhvc",
+        "name": "鐵杉谷盛宴劇本擴充"
+    },
+    {
+        "code": "fhvp",
+        "name": "鐵杉谷盛宴調查員擴充"
+    },
+    {
+        "code": "fof",
+        "name": "時運與愚行"
+    },
+    {
         "code": "guardians",
         "name": "深淵守衛"
     },
     {
         "code": "har",
         "name": "哈維·沃爾特斯"
+    },
+    {
+        "code": "hfa",
+        "name": "Hunting for Answers"
     },
     {
         "code": "hhg",
@@ -100,12 +124,12 @@
         "name": "久遠腹地"
     },
     {
-        "code": "hoth",
-        "name": "Hour of the Huntress"
-    },
-    {
         "code": "hotel",
         "name": "艾肖希爾酒店謀殺案"
+    },
+    {
+        "code": "hoth",
+        "name": "Hour of the Huntress"
     },
     {
         "code": "icc",
@@ -144,12 +168,24 @@
         "name": "The Labyrinths of Lunacy"
     },
     {
+        "code": "ltr",
+        "name": "安魂鎮息"
+    },
+    {
         "code": "mtt",
         "name": "時間騙局"
     },
     {
         "code": "nat",
         "name": "納撒尼爾·曹"
+    },
+    {
+        "code": "otr",
+        "name": "On the Road Again"
+    },
+    {
+        "code": "pap",
+        "name": "Pistols and Pearls"
     },
     {
         "code": "pnr",
@@ -164,8 +200,20 @@
         "name": "卡爾克薩之路"
     },
     {
+        "code": "ptr",
+        "name": "Path of the Righteous"
+    },
+    {
+        "code": "rcore",
+        "name": "基礎遊戲修訂版"
+    },
+    {
         "code": "rod",
         "name": "死亡閱讀"
+    },
+    {
+        "code": "rop",
+        "name": "Relics of the Past"
     },
     {
         "code": "rtdwl",
@@ -216,6 +264,14 @@
         "name": "萬象無終"
     },
     {
+        "code": "tdcc",
+        "name": "The Drowned City Campaign Expansion"
+    },
+    {
+        "code": "tdcp",
+        "name": "The Drowned City Investigator Expansion"
+    },
+    {
         "code": "tde",
         "name": "食夢者"
     },
@@ -246,6 +302,10 @@
     {
         "code": "tic",
         "name": "印斯茅斯暗潮"
+    },
+    {
+        "code": "tmg",
+        "name": "The Midwinter Gala"
     },
     {
         "code": "tmm",

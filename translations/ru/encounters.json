@@ -9,7 +9,7 @@
     },
     {
         "code": "a_thousand_shapes_of_horror",
-        "name": "A Thousand Shapes of Horror"
+        "name": "Тысяча кошмарных форм"
     },
     {
         "code": "abyssal_gifts",
@@ -21,7 +21,7 @@
     },
     {
         "code": "agents_of_atlach_nacha",
-        "name": "Agents of Atlach-Nacha"
+        "name": "Агенты Атлач-Начи"
     },
     {
         "code": "agents_of_azathoth",
@@ -45,11 +45,15 @@
     },
     {
         "code": "agents_of_nyarlathotep",
-        "name": "Agents of Nyarlathotep"
+        "name": "Агенты Ньярлатхотепа"
     },
     {
         "code": "agents_of_shub",
         "name": "Агенты Шуб-Ниггурат"
+    },
+    {
+        "code": "agents_of_the_colour",
+        "name": "Агенты Цвета"
     },
     {
         "code": "agents_of_the_outside",
@@ -125,7 +129,7 @@
     },
     {
         "code": "beyond_the_gates_of_sleep",
-        "name": "Beyond the Gates of Sleep"
+        "name": "За вратами сна"
     },
     {
         "code": "beyond_the_threshold",
@@ -140,6 +144,10 @@
         "name": "Восход чёрных звёзд"
     },
     {
+        "code": "blight",
+        "name": "Хворь"
+    },
+    {
         "code": "blob",
         "name": "Капля, поглотившая всё"
     },
@@ -150,6 +158,10 @@
     {
         "code": "blob_single_group",
         "name": "Отдельная группа"
+    },
+    {
+        "code": "blob_that_ate_everything_else",
+        "name": "The Blob That Ate Everything Else"
     },
     {
         "code": "blood_on_the_altar",
@@ -205,7 +217,7 @@
     },
     {
         "code": "corsairs",
-        "name": "Corsairs"
+        "name": "Корсары"
     },
     {
         "code": "creatures_in_the_ice",
@@ -217,7 +229,7 @@
     },
     {
         "code": "creatures_of_the_underworld",
-        "name": "Creatures of the Underworld"
+        "name": "Жители Подземного мира"
     },
     {
         "code": "creeping_cold",
@@ -253,11 +265,23 @@
     },
     {
         "code": "dark_side_of_the_moon",
-        "name": "Dark Side of the Moon"
+        "name": "Тёмная сторона Луны"
     },
     {
         "code": "dark_veiling",
         "name": "Тёмная вуаль"
+    },
+    {
+        "code": "day_of_rain",
+        "name": "День дождя"
+    },
+    {
+        "code": "day_of_rest",
+        "name": "День отдыха"
+    },
+    {
+        "code": "day_of_the_feast",
+        "name": "День пиршества"
     },
     {
         "code": "dead_heat",
@@ -293,7 +317,7 @@
     },
     {
         "code": "descent_into_the_pitch",
-        "name": "Descent into the Pitch"
+        "name": "Опускаясь в смолу"
     },
     {
         "code": "devil_reef",
@@ -317,11 +341,11 @@
     },
     {
         "code": "dreamers_curse",
-        "name": "Dreamer's Curse"
+        "name": "Проклятие сновидца"
     },
     {
         "code": "dreamlands",
-        "name": "Dreamlands"
+        "name": "Мир грёз"
     },
     {
         "code": "dunwich",
@@ -376,6 +400,14 @@
         "name": "Роковой мираж"
     },
     {
+        "code": "fate_of_the_vale",
+        "name": "Участь Хемлок-Вейл"
+    },
+    {
+        "code": "fire",
+        "name": "Пожар!"
+    },
+    {
         "code": "flood",
         "name": "Морской потоп"
     },
@@ -394,6 +426,14 @@
     {
         "code": "for_the_greater_good",
         "name": "Ради высшего блага"
+    },
+    {
+        "code": "fortune_and_folly",
+        "name": "Фортуна и безрассудство"
+    },
+    {
+        "code": "fortunes_chosen",
+        "name": "Избранные Фортуной"
     },
     {
         "code": "ghouls",
@@ -432,6 +472,14 @@
         "name": "Сердце древних"
     },
     {
+        "code": "heirlooms",
+        "name": "Памятные безделушки"
+    },
+    {
+        "code": "hemlock_house",
+        "name": "Дом Хемлоков"
+    },
+    {
         "code": "hexcraft",
         "name": "Порча"
     },
@@ -442,6 +490,10 @@
     {
         "code": "horror_in_high_gear",
         "name": "Horror in High Gear"
+    },
+    {
+        "code": "horrors_in_the_rock",
+        "name": "Ужасы в камне"
     },
     {
         "code": "ice_and_death",
@@ -480,6 +532,10 @@
         "name": "К'ньян"
     },
     {
+        "code": "laid_to_rest",
+        "name": "Laid to Rest"
+    },
+    {
         "code": "left_behind",
         "name": "Оставленные"
     },
@@ -500,6 +556,14 @@
         "name": "Machinations Through Time"
     },
     {
+        "code": "machinations_through_time_epic_multiplayer",
+        "name": "Эпическая игра"
+    },
+    {
+        "code": "machinations_through_time_single_group",
+        "name": "Отдельная группа"
+    },
+    {
         "code": "maddening_delusions",
         "name": "Невыносимые галлюцинации"
     },
@@ -513,7 +577,7 @@
     },
     {
         "code": "merging_realities",
-        "name": "Merging Realities"
+        "name": "Сливающиеся реальности"
     },
     {
         "code": "miasma",
@@ -524,12 +588,24 @@
         "name": "Вторжение ми-го"
     },
     {
+        "code": "migo_incursion_2",
+        "name": "Mi-Go Incursion II"
+    },
+    {
         "code": "murder_at_the_excelsior_hotel",
         "name": "Убийство в отеле «Эксельсиор»"
     },
     {
         "code": "music_of_the_damned",
         "name": "Музыка проклятых"
+    },
+    {
+        "code": "mutations",
+        "name": "Мутации"
+    },
+    {
+        "code": "myconids",
+        "name": "Микониды"
     },
     {
         "code": "mysteries_abound",
@@ -572,12 +648,16 @@
         "name": "Столпы судьбы"
     },
     {
+        "code": "plan_in_shambles",
+        "name": "План рухнул"
+    },
+    {
         "code": "pnakotic_brotherhood",
         "name": "Пнакотикское братство"
     },
     {
         "code": "point_of_no_return",
-        "name": "Point of No Return"
+        "name": "Точка невозврата"
     },
     {
         "code": "poison",
@@ -606,6 +686,18 @@
     {
         "code": "red_tide_rising",
         "name": "Red Tide Rising"
+    },
+    {
+        "code": "refractions",
+        "name": "Преломления"
+    },
+    {
+        "code": "relics_of_the_past",
+        "name": "Relics of the Past"
+    },
+    {
+        "code": "residents",
+        "name": "Жители"
     },
     {
         "code": "resurgent_evils",
@@ -873,7 +965,7 @@
     },
     {
         "code": "spiders",
-        "name": "Spiders"
+        "name": "Пауки"
     },
     {
         "code": "spreading_corruption",
@@ -917,7 +1009,7 @@
     },
     {
         "code": "terror_of_the_vale",
-        "name": "Terror of the Vale"
+        "name": "Ужасы долины"
     },
     {
         "code": "the_beyond",
@@ -948,6 +1040,18 @@
         "name": "Беспробудный сон"
     },
     {
+        "code": "the_final_day",
+        "name": "Последний день"
+    },
+    {
+        "code": "the_first_day",
+        "name": "Первый день"
+    },
+    {
+        "code": "the_forest",
+        "name": "Чаща"
+    },
+    {
         "code": "the_great_seal",
         "name": "Великая печать"
     },
@@ -972,6 +1076,18 @@
         "name": "The Locals"
     },
     {
+        "code": "the_longest_night",
+        "name": "Самая долгая ночь"
+    },
+    {
+        "code": "the_lost_sister",
+        "name": "Пропавшая сестра"
+    },
+    {
+        "code": "the_midwinter_gala",
+        "name": "The Midwinter Gala"
+    },
+    {
         "code": "the_miskatonic_museum",
         "name": "Мискатоникский музей"
     },
@@ -989,15 +1105,35 @@
     },
     {
         "code": "the_search_for_kadath",
-        "name": "The Search for Kadath"
+        "name": "В поисках Кадата"
+    },
+    {
+        "code": "the_second_day",
+        "name": "Второй день"
     },
     {
         "code": "the_secret_name",
         "name": "Тайное имя"
     },
     {
+        "code": "the_silent_heath",
+        "name": "Тихая пустошь"
+    },
+    {
+        "code": "the_thing_in_the_depths",
+        "name": "Тварь в глубине"
+    },
+    {
+        "code": "the_twisted_hollow",
+        "name": "Чудовищная лощина"
+    },
+    {
         "code": "the_unspeakable_oath",
         "name": "Невыразимая клятва"
+    },
+    {
+        "code": "the_vale",
+        "name": "Хемлок-Вейл"
     },
     {
         "code": "the_vanishing_of_elina_harper",
@@ -1026,6 +1162,10 @@
     {
         "code": "torch",
         "name": "Встреча"
+    },
+    {
+        "code": "transfiguration",
+        "name": "Преображение"
     },
     {
         "code": "trapped_spirits",
@@ -1081,7 +1221,7 @@
     },
     {
         "code": "waking_nightmare",
-        "name": "Waking Nightmare"
+        "name": "Кошмар наяву"
     },
     {
         "code": "war_of_the_outer_gods",
@@ -1089,7 +1229,7 @@
     },
     {
         "code": "weaver_of_the_cosmos",
-        "name": "Weaver of the Cosmos"
+        "name": "Плетущая космос"
     },
     {
         "code": "where_doom_awaits",
@@ -1097,7 +1237,7 @@
     },
     {
         "code": "where_the_gods_dwell",
-        "name": "Where the Gods Dwell"
+        "name": "Где обитают боги"
     },
     {
         "code": "whippoorwills",
@@ -1105,7 +1245,7 @@
     },
     {
         "code": "whispers_of_hypnos",
-        "name": "Whispers of Hypnos"
+        "name": "Шёпот Гипноса"
     },
     {
         "code": "wilds",
@@ -1120,11 +1260,15 @@
         "name": "Без следа"
     },
     {
+        "code": "written_in_rock",
+        "name": "Высечено в камне"
+    },
+    {
         "code": "yog_sothoths_emissaries",
         "name": "Эмиссары Йог-Сотота"
     },
     {
         "code": "zoogs",
-        "name": "Zoogs"
+        "name": "Зуги"
     }
 ]

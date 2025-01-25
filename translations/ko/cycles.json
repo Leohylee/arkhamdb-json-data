@@ -44,6 +44,10 @@
         "name": "끝맺지 못한 의식"
     },
     {
+        "code": "tdc",
+        "name": "The Drowned City"
+    },
+    {
         "code": "tde",
         "name": "꿈을 먹는 자"
     },
@@ -57,6 +61,6 @@
     },
     {
         "code": "tsk",
-        "name": "The Scarlet Keys"
+        "name": "진홍색 열쇠"
     }
 ]
